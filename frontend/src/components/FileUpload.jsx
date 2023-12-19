@@ -40,12 +40,6 @@ const FileUpload = () => {
           Upload
         </Button>
       </Form>
-
-
-
-
-      {/* <input type="file" onChange={handleFileChange} />
-      <button onClick={handleUpload}>Upload</button> */}
     </div>
   );
 };
